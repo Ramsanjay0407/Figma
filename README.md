@@ -675,6 +675,9 @@ contact page
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-16 144015.png>)
+![alt text](<Screenshot 2024-12-16 153921.png>)
+![alt text](<Screenshot 2024-12-16 153926.png>)
+![alt text](<Screenshot 2024-12-16 153932.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
